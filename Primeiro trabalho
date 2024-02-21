@@ -10,7 +10,7 @@ RESPOSTA: Um arquivo de texto é um tipo de arquivo de computador que contém te
 RESPOSTA: Uma variável é um espaço na memória do computador destinado a um dado que é alterado durante a execução do algoritmo. Para funcionar corretamente, as variáveis precisam ser definidas por nomes e tipos. A variável é um nome que recebe um valor.
 
 3. Explique o que seria um SERVIDOR, no contexto da computação. 
-resposta: Um servidor é um computador equipado com um ou mais processadores, bancos de memória, portas de comunicação, softwares e, ocasionalmente, algum sistema para armazenamento de dados, como hard disks internos ou memórias SSD. Além disso, servidor pode ser um computador ou um programa que atende outros através de uma rede. A palavra servidor serve para vários contextos, depende do nível de abstração. Quando digo que é um sistema, estou falando em um nível mais alto de abstração. Logo, a depender do nível de abstração, o servidor é definido como computador ou sistema. 
+RESPOSTA: Um servidor é um computador equipado com um ou mais processadores, bancos de memória, portas de comunicação, softwares e, ocasionalmente, algum sistema para armazenamento de dados, como hard disks internos ou memórias SSD. Além disso, servidor pode ser um computador ou um programa que atende outros através de uma rede. A palavra servidor serve para vários contextos, depende do nível de abstração. Quando digo que é um sistema, estou falando em um nível mais alto de abstração. Logo, a depender do nível de abstração, o servidor é definido como computador ou sistema. 
 	O servidor visto como sistema tem outros sinônimos, como o provedor de aplicação, que é uma empresa que fornece um sistema, que é uma aplicação. Outro termo na legislação é o provedor de acesso, que é uma empresa que dá acesso a uma infraestrutura. 
 
 4. Crie uma conta e um repositório no GITHUB. 
@@ -18,6 +18,13 @@ resposta: Um servidor é um computador equipado com um ou mais processadores, ba
 Exerício II:
 1. Encontre referências e comente:
 a) A relação entre a LGPD e os Data Centers no Brasil. 
+RESPOSTA: 
+
 b) Formatos de arquivos de dados proprietários e abertos. 
-	b.1) Forneça exemplos de formato
+RESPOSTA: 
+
+	b.1) Forneça exemplos de formato. 
+	RESPOSTA: Formato de arquivos proprietários ⇒ DOCX e PPT. Formato de arquivos abertos ⇒ Photoshop, ODF, ODP. 
+	
 	b.2) Discuta as implicações relacionadas a dados públicos (termo forte, tem que saber para dizer qual a relação de formato de arquivos proprietários e abertos com dados públicos)
+	RESPOSTA: 
