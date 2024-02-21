@@ -2,15 +2,15 @@ Exercício:
 Estão no SAVA.
 
 1. Forneça a definição do termo ARQUIVO, no contexto da computação. 
-Resposta do professor: O arquivo é um conjunto de dados, ao qual você dá um nome. 
-1.1 - O que é um ARQUIVO DE TEXTO? Um arquivo de texto é um tipo de arquivo de computador que contém texto simples, ou seja, caracteres legíveis por humanos. 
-Resposta do professor: O arquivo de texto é um conjunto de dados/informações que você dá um nome, e que tem uma característica interessante: a cada determinada quantidade de números binários, ele atrela a um caractere. 
+RESPOSTA: O arquivo é um conjunto de dados, ao qual você dá um nome. 
+1.1 - O que é um ARQUIVO DE TEXTO? 
+RESPOSTA: Um arquivo de texto é um tipo de arquivo de computador que contém texto simples, ou seja, caracteres legíveis por humanos. O arquivo de texto é um conjunto de dados/informações que você dá um nome, e que tem uma característica interessante: a cada determinada quantidade de números binários, ele atrela a um caractere. 
 
-2. Explique o que é uma VARIÁVEL, no contexto da programação de computadores. Uma variável é um espaço na memória do computador destinado a um dado que é alterado durante a execução do algoritmo. Para funcionar corretamente, as variáveis precisam ser definidas por nomes e tipos. 
-Resposta do professor: A variável é um nome que recebe um valor.
+2. Explique o que é uma VARIÁVEL, no contexto da programação de computadores.  
+RESPOSTA: Uma variável é um espaço na memória do computador destinado a um dado que é alterado durante a execução do algoritmo. Para funcionar corretamente, as variáveis precisam ser definidas por nomes e tipos. A variável é um nome que recebe um valor.
 
-3. Explique o que seria um SERVIDOR, no contexto da computação. Um servidor é um computador equipado com um ou mais processadores, bancos de memória, portas de comunicação, softwares e, ocasionalmente, algum sistema para armazenamento de dados, como hard disks internos ou memórias SSD.
-Resposta do professor: Servidor pode ser um computador ou um programa que atende outros através de uma rede. A palavra servidor serve para vários contextos, depende do nível de abstração. Quando digo que é um sistema, estou falando em um nível mais alto de abstração. Logo, a depender do nível de abstração, o servidor é definido como computador ou sistema. 
+3. Explique o que seria um SERVIDOR, no contexto da computação. 
+resposta: Um servidor é um computador equipado com um ou mais processadores, bancos de memória, portas de comunicação, softwares e, ocasionalmente, algum sistema para armazenamento de dados, como hard disks internos ou memórias SSD. Além disso, servidor pode ser um computador ou um programa que atende outros através de uma rede. A palavra servidor serve para vários contextos, depende do nível de abstração. Quando digo que é um sistema, estou falando em um nível mais alto de abstração. Logo, a depender do nível de abstração, o servidor é definido como computador ou sistema. 
 	O servidor visto como sistema tem outros sinônimos, como o provedor de aplicação, que é uma empresa que fornece um sistema, que é uma aplicação. Outro termo na legislação é o provedor de acesso, que é uma empresa que dá acesso a uma infraestrutura. 
 
 4. Crie uma conta e um repositório no GITHUB. 
