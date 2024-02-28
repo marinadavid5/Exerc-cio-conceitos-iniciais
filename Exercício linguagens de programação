@@ -1,1 +1,31 @@
+Exercício: Linguagens de programação
+1) Explique a diferença entre 3 linguagens de programação. 
+RESPOSTA:
 
+
+  a. Tente fazer um código mínimo em cada uma delas. 
+I) Python: 
+print('Olá, me chamo Marina').
+
+II) Java:  
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+// The main method must be in a class named "Main".
+class Main {
+    public static void main(String[] args) {
+        System.out.println("Olá, me chamo Marina");
+    }
+}
+
+III) PHP:
+<?php
+
+echo "Olá, me chamo Marina\n";
+
+
+  b. Tente executar o seu código. 
+
+2) Inclua seus comentários no arquivo de texto no no GITHUB. 
+xxxxxxxxxxxxxxxxxxxx
