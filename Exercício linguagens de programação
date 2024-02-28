@@ -1,7 +1,17 @@
 Exercício: Linguagens de programação
 1) Explique a diferença entre 3 linguagens de programação. 
-RESPOSTA:
+RESPOSTA: Linguagens Escolhidas: Python, Java & PHP. 
+Python, Java e PHP são linguagens de programação que se destacam na atualidade por serem consideradas linguagens simples, além de serem compatíveis com diversos sistemas operacionais existentes. 
+Sintaxe: Uma das principais diferenças entre Java, PHP e Python é sua sintaxe. Java usa uma de tipo estatístico onde os tipos de variáveis ​​​​devem ser declarados explicitamente, enquanto PHP e Python usam uma sintaxe de tipo dinâmico onde os tipos de variáveis ​​​​não precisam ser especificados. Essa diferença faz com que o Java seja mais estruturado, por exemplo, pois o mesmo requer um estilo de escrita mais formal, utilizando-se de pontos, vírgulas, parênteses e etc. 
+Desempenho: Outra diferença significativa está no desempenho dessas linguagens. Java é conhecido por seu alto desempenho, pois é compilado em bytecode e executado na Java Virtual Machine (JVM). Em contrapartida, o PHP é interpretado e executado diretamente sem compilação, o que pode torná-lo mais lento em determinados casos. Python também usa interpretação, mas possui diversas implementações e otimizações que o tornam competitivo em termos de desempenho. 
+Utilização: O PHP é utilizado para construir sites dinâmicos, extensões de integração de aplicações e agilizar no desenvolvimento de um sistema, enquanto Java é usado no desenvolvimento de aplicativos, ferramentas de rede e Big Data, e o Python é líder no desenvolvimento web, ciência de dados e Inteligência Artificial.  
+Por último, Java é um pouco mais difícil de aprender em relação à Python e PHP devido à sua sintaxe estrita. Já o PHP, com sua sintaxe simples e tolerante, é relativamente mais fácil para iniciantes e Python, é o mais elogiado por sua legibilidade e simplicidade, sendo considerado uma das linguagens de programação mais fáceis. Portanto, essas três linguagens mencionadas são bem populares no mundo atual, exatamente por estarem no rol das linguagens de programação mais simples no mercado. 
+Em resumo, Java, PHP e Python diferem em diversos aspectos, e essas diferenças são o que tornam cada linguagem adequada para casos de uso específicos e isso influencia bastante na escolha dos desenvolvedores. 
 
+Bibliografia: 
+https://www.hostinger.com.br/tutoriais/o-que-e-php-guia-basico#:~:text=PHP%20é%20uma%20linguagem%20de%20script%20do%20tipo%20server%2Dside,aberto%20e%20suas%20funcionalidades%20versáteis.
+https://awari.com.br/aprenda-java-ou-python-as-linguagens-de-programacao-mais-populares-para-se-tornar-um-expert-em-tecnologia/?utm_source=blog&utm_campaign=projeto+blog&utm_medium=Aprenda%20Java%20Ou%20Python:%20As%20Linguagens%20De%20Programa%C3%A7%C3%A3o%20Mais%20Populares%20Para%20Se%20Tornar%20Um%20Expert%20Em%20Tecnologia#:~:text=A%20linguagem%20%C3%A9%20compilada%20para,em%20compara%C3%A7%C3%A3o%20com%20o%20Java.
+Java ou Python: qual linguagem de programação é melhor ...EBAChttps://ebaconline.com.br › blog › java-ou-python-qual-l...
 
   a. Tente fazer um código mínimo em cada uma delas. 
 I) Python: 
