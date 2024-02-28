@@ -19,12 +19,16 @@ Exerício II:
 1. Encontre referências e comente:
 a) A relação entre a LGPD e os Data Centers no Brasil. 
 RESPOSTA: 
+A Lei Geral de Proteção de Dados (LGPD) surgiu para proteger os direitos fundamentais de liberdade e de privacidade e a livre formação da personalidade de cada indivíduo. Essa lei dispõe sobre o tratamento de dados feito por pessoa física ou jurídica de direito público ou privado e engloba um amplo conjunto de operações efetuadas em meios manuais ou digitais. 
+Já os data centers são estabelecimentos que abrigam milhares de racks e servidores que processam e armazenam dados de todo tipo de companhia - especialmente as gigantes da internet - desde o varejo até o setor financeiro. Então, são basicamente centros de processamento de dados. 
+Portanto, ao ser implementada, a LGPD teve uma grande relevância para o aumento de data centers no Brasil. Isto é porque o que impulsiona os data centers são o crescimento da computação em nuvem, leis governamentais, como a LGPD, para proteção de dados locais e o aumento do investimento dos intervenientes nacionais. Assim sendo, o Brasil é o país da América Latina que mais investe atualmente em data centers, e portanto, é o principal mercado entre os países da mesma. 
 
 b) Formatos de arquivos de dados proprietários e abertos. 
-RESPOSTA: 
-
 	b.1) Forneça exemplos de formato. 
-	RESPOSTA: Formato de arquivos proprietários ⇒ DOCX e PPT. Formato de arquivos abertos ⇒ Photoshop, ODF, ODP. 
+RESPOSTA: 
+Formato de arquivos proprietários ⇒ DOC (formato proprietário de texto), SWF (Shockwave Flash) e PPT (formato proprietário de apresentação de slides). 
+Formato de arquivos abertos ⇒ Photoshop, ODF (Open Document Format = formato de arquivo aberto), ODP (Open Document Presentation - formato de arquivo aberto de apresentação). 
+ 
 	
 	b.2) Discuta as implicações relacionadas a dados públicos (termo forte, tem que saber para dizer qual a relação de formato de arquivos proprietários e abertos com dados públicos)
-	RESPOSTA: 
+RESPOSTA: Dados públicos são dados que não estão sujeitos a limitações válidas de privacidade, segurança ou controle de acesso, reguladas por estatutos, e esses se relacionam com formato de arquivos proprietários e abertos, pois, a depender do formato em que você salvar seu arquivo, este pode ser público ou privado. Os formatos de arquivo abertos permitem que vários softwares possam implementá-los, sem que seja levado em consideração os direitos de propriedade porque seguem padrões abertos, cujas especificações são publicadas, enquanto os formatos de arquivo proprietários representam a privatização da memória digital. 
