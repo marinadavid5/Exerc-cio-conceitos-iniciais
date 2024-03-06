@@ -7,11 +7,13 @@ Estrutura de repetição:
 Cidades = ('Belo Horizonte', 'Porto Alegre', 'Rio de Janeiro', 'São Paulo')
 for Cidade in Cidades:
     print (Cidade) 
-  - Comprovante de execução: Estrutura de repetição Python.png
+  
+- Comprovante de execução: Estrutura de repetição Python.png
 
 Estrutura de tomada de decisão:
   - Código: 
 
+ 
   - Comprovante de execução: 
 
 3) Envie o link do seu repositório. 
