@@ -13,7 +13,14 @@ https://github.com/marinadavid5/Exerc-cio-conceitos-iniciais/blob/main/Estrutura
 
 Estrutura de tomada de decisão:
   - Código: 
+# Variável Nota
+nota = 7
 
+# Condição Para Verificar a Nota
+if nota >= 7:
+    print("Aprovado.")
+else:
+    print("Não aprovado.")
  
   - Comprovante de execução: 
 
