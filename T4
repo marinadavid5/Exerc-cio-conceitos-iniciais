@@ -1,4 +1,14 @@
 T4: Exercício simples de programação de computadores: 
-Usando a linguagem de programação Python, implemente um ou mais códigos de exemplo dos seguintes elementos: uma estrutura de repetição; uma estrutura de tomada de decisão. 
-Envie seu código e o comprovante de execução para seu repositório no github. 
-Envie o link do seu repositório. 
+1) Usando a linguagem de programação Python, implemente um ou mais códigos de exemplo dos seguintes elementos: uma estrutura de repetição; uma estrutura de tomada de decisão. 
+
+2) Envie seu código e o comprovante de execução para seu repositório no github. 
+Estrutura de repetição: 
+  - Código: 
+Cidades = ('Belo Horizonte', 'Porto Alegre', 'Rio de Janeiro', 'São Paulo')
+for Cidade in Cidades:
+    print (Cidade) 
+
+  - Comprovante de execução: 
+
+3) Envie o link do seu repositório. 
+<><><><><><><><><><><><><><><><>><><><><><>
