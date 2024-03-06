@@ -8,7 +8,8 @@ Cidades = ('Belo Horizonte', 'Porto Alegre', 'Rio de Janeiro', 'São Paulo')
 for Cidade in Cidades:
     print (Cidade) 
   
-- Comprovante de execução: Estrutura de repetição Python.png
+- Comprovante de execução: 
+https://github.com/marinadavid5/Exerc-cio-conceitos-iniciais/blob/main/Estrutura%20de%20repeti%C3%A7%C3%A3o%20Python.png
 
 Estrutura de tomada de decisão:
   - Código: 
