@@ -1,5 +1,7 @@
 Exercício Algoritmo (Semana 5):
 1) Implemente o algoritmo de ordenação Bubble Sort usando python;
+
+
 2) Implemente um algorítmo que imprima apenas as vogais de uma determinada palavra ou frase.
 dica 1: textos no python são sequências
 dica 2: use uma variável para armazenar a palavra
