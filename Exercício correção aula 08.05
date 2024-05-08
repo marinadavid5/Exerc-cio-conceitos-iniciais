@@ -37,7 +37,7 @@ def questao3 ():
         contador +=1
 
 def questao4 ():
-    celsius= floar (input('Entre a temperatuta em Celsius: '))
+    celsius= float (input('Entre a temperatuta em Celsius: '))
     f = (celsius * 9/5) + 32
     print ("A temperatura em Farenheit é: ", f)
 
